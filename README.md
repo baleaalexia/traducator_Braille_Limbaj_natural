@@ -126,26 +126,6 @@ The OLED uses the I2C interface:
 - Compatible OLED display
 - `Tiny4kOLED` library
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/baleaalexia/arduino-braille-translator.git
-   ```
-
-2. Open `Traducator_Braille/Traducator_Braille.ino` in Arduino IDE.
-
-3. Install the required `Tiny4kOLED` library through the Arduino Library Manager.
-
-4. Connect the hardware according to the pin configuration.
-
-5. Select the correct Arduino Nano board and serial port.
-
-6. Compile and upload the sketch.
-
-7. Use the sensors to enter Braille patterns and view the translated text.
-
 ## Testing and Results
 
 The prototype was tested using combinations of capacitive touch inputs.
